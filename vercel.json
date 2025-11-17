@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://raw.githubusercontent.com/Fluxonide/REPLiCA/refs/heads/main/index.html",
+      "permanent": false
+    }
+  ]
+}
